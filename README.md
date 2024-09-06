@@ -1,0 +1,2 @@
+# Dice-Game
+An Interactive Game in which user will play against computer and on click of button, will roll the dice and decide who wins. 
